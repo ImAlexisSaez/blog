@@ -1,0 +1,113 @@
+#
+# Configuración básica del sitio
+#
+title   = "Infinitos Contrastes"            # Título de la web
+theme   = "beautifulhugo"                   # Tema 
+baseurl = "https://imalexissaez.github.io/" # URL base
+metaDataFormat         = "yaml"             # Formato de las cabeceras de las entradas
+DefaultContentLanguage = "es"               # Lenguaje de la web (activa localización)
+
+#
+# Configuración de los bloques de código fuente
+# Guía en: https://gohugo.io/content-management/syntax-highlighting/
+#
+pygmentsStyle                 = "trac"
+pygmentsUseClasses            = true
+pygmentsCodeFences            = true
+pygmentsCodefencesGuessSyntax = true
+
+#
+# Configuración de los comentarios (Disqus)
+#
+disqusShortname = "infinitos-contrastes"
+
+#
+# Configuración de las estadísticas (Google Analytics)
+#
+googleAnalytics = "UA-88993800-1"
+
+#
+# Configuración de parámetros del sitio web
+#
+[Params]
+  subtitle    = "Laboratorio de experimentos de un matemático" # Subtítulo
+  logo        = "img/avatar.jpg"                               # Logo
+  favicon     = "img/favicon.ico"                              # Favicon
+  dateFormat  = "2006-01-02"                                   # Formato de la fecha
+  commit      = false                                          # Para hacer aparecer en footer el código del commit (ver documentación del tema)
+  rss         = true                                           # Sindicación
+  comments    = true                                           # Comentarios activados por defecto
+  readingTime = true                                           # Estimación del tiempo de lectura
+  useHLJS     = true                                           # Utiliza la librería Highlight.js para los bloques de código
+  socialShare = true                                           # Compartir entradas en redes sociales
+
+#
+# Configuración del carrusel de imágenes de la página de inicio
+#
+[[Params.bigimg]]
+  src = "img/homepage-cabecera-01.jpg"
+[[Params.bigimg]]
+  src = "img/homepage-cabecera-02.jpg"
+[[Params.bigimg]]
+  src = "img/homepage-cabecera-03.jpg"
+[[Params.bigimg]]
+  src = "img/homepage-cabecera-04.jpg"
+[[Params.bigimg]]
+  src = "img/homepage-cabecera-05.jpg"
+
+#
+# Configuración del autor
+#
+[Author]
+  name    = "Alexis Sáez"
+  website = "https://imalexissaez.github.io/"
+  email   = "imalexissaez@gmail.com"
+  github  = "ImAlexisSaez"
+  twitter = "imalexissaez"
+
+#
+# Configuración del menú superior derecho
+#
+[[menu.main]]
+    identifier = "menu"
+    name       = "Menú"
+    weight     = 1
+
+[[menu.main]]
+    parent = "menu"
+    name   = "Apartados"
+    url    = "apartados/"
+    weight = 1
+
+[[menu.main]]
+    parent = "menu"
+    name   = "Etiquetas"
+    url    = "etiquetas/"
+    weight = 2
+
+[[menu.main]]
+    parent = "menu"
+    name   = "Proyectos"
+    url    = "proyectos/"
+    weight = 3
+
+[[menu.main]]
+    name   = "Acerca de"
+    url    = "page/about/"
+    weight = 2
+
+#
+# Configuración de taxonomías
+#
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+  apartado = "apartados"
+  proyecto = "proyectos"
+  etiqueta = "etiquetas"
+
+#
+# Configuración del permalink
+#
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
