@@ -32,8 +32,17 @@ Para ir acostumbrándonos al uso de la terminal *Git Bash*, todo el anterior pro
 
 {{< highlight bash >}}
 cd c:
+{{< / highlight >}}
+
+{{< highlight bash >}}
 mkdir Hugo
+{{< / highlight >}}
+
+{{< highlight bash >}}
 cd Hugo
+{{< / highlight >}}
+
+{{< highlight bash >}}
 mkdir bin Sites
 {{< / highlight >}}
 
