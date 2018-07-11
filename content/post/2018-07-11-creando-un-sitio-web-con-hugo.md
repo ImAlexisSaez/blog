@@ -30,7 +30,7 @@ Así pues, generemos un primer sitio de prueba y, en un alarde de extrema origin
 hugo new site prueba
 {{< / highlight >}}
 
-Recibimos entonces un mensaje de felicitación (en caso contrario, convendría que revisáramos la instalación de *Hugo* siguiendo las indicación de [esta entrada](/2018/07/08/instalando-hugo-en-windows/)) y algunas instrucciones relacionadas con el uso de temas, la creación de contenidos y el acceso local del sitio web.
+Recibimos entonces un mensaje de felicitación (en caso contrario, convendría que revisáramos la instalación de *Hugo* siguiendo las indicaciones de [esta entrada](/2018/07/08/instalando-hugo-en-windows/)) y algunas instrucciones relacionadas con el uso de temas, la creación de contenidos y el acceso local al sitio web.
 
 *Hugo* ha creado el directorio `\prueba\` en el interior de la ruta donde hemos ejecutado el comando `hugo new site`. Además, ha poblado el mismo con algunas carpetas (vacías en su mayor parte), quedando una estructura como la que figura en la siguiente imagen:
 
@@ -58,15 +58,15 @@ cd themes
 git clone https://github.com/budparr/gohugo-theme-ananke.git
 {{< / highlight >}}
 
-De esta manera, tenemos acceso localmente a un sitio web de prueba, con un poco de contenido ya generado, que nos permitirá hacernos una idea del aspecto final de nuestro sitio web utilizando el tema *Ananke*. Aunque soy consciente de que me estoy desviando "ligeramente" de la guía oficial, vamos tomar esta senda para ver cómo luce nuestro sitio web.
+De esta manera, tenemos acceso localmente a un sitio web de prueba, con un poco de contenido ya generado, que nos permitirá hacernos una idea del aspecto final de nuestro sitio web utilizando el tema *Ananke*. Aunque soy consciente de que me estoy desviando "ligeramente" de la guía oficial, vamos a tomar esta senda para ver cómo luce nuestro sitio web.
 
 Abrimos el explorador de archivos de *Windows* y en el directorio donde hemos ubicado la página web (`C:\Hugo\Sites\prueba\`) accedemos a la carpeta `themes`. Una vez dentro de ella, hacemos doble clic sobre el directorio `gohugo-theme-ananke` y repetimos luego la acción con la carpeta denomiada `exampleSite`, cuyos contenidos son:
 
 {{< figure src="/img/blog/20180711-img02.png" width="100%" >}}
 
-Copiamos tanto las dos carpetas, como el archivo `config.toml`, y pegamos en el directorio `C:\Hugo\Sites\prueba\`, reemplazando los ficheros existentes con el mismo nombre que en él se encuentran. 
+Copiamos tanto las dos carpetas, como el archivo `config.toml`, y pegamos todo en el directorio `C:\Hugo\Sites\prueba\`, reemplazando los ficheros existentes con el mismo nombre que en él se encuentran. 
 
-Ahora volvemos a la terminal, todavía apuntando a la carpeta `\themes\` y tecleamos
+Ahora volvemos a la terminal, que todavía está apuntando a la carpeta `\themes\` y tecleamos
 
 {{< highlight bash >}}
 cd ...
@@ -80,7 +80,9 @@ hugo server
 
 y, para mi sorpresa, recibimos el siguiente mensaje de error `Error: Unable to find theme Directory: C:\Hugo\gohugo-theme-ananke`, hecho que debe ser el *karma* haciendo acto de presencia por haberme desviado de las indicaciones de la guía oficial.
 
-Aunque no quería meterme en este artículo en el contenido del archivo `config.toml`, para evitar ofrecer mucha información de golpe, solucionemos rápidamente este pequeño *bug* para así poder revisar localmente el sitio web. Hacemos clic derecho sobre el mencionado fichero y lo abrimos con *Sublime Text*. Modificamos la quinta línea que aparece, de
+Aunque no quería meterme en este artículo en el contenido del archivo `config.toml`, para evitar ofrecer mucha información de golpe, solucionemos rápidamente este pequeño *bug* para así poder revisar localmente el sitio web. 
+
+Hacemos clic derecho sobre el mencionado fichero y lo abrimos con *Sublime Text*. Modificamos la quinta línea que aparece, de
 
 {{< highlight toml >}}
 themesDir = "../.."

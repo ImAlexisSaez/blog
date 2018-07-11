@@ -1,3 +1,6 @@
+/* Modificación para hacer que el tamaño de letra de KaTeX sea similar al de la web */
+.katex { font-size: 1.1em !important; }
+
 /* --- General --- */
 
 body {
