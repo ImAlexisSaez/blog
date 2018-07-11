@@ -9,40 +9,22 @@ etiquetas: ["Inducción"]
 proyectos: ["Problemas"]
 ---
 
-Demuestra que 
-$$
-1+2+\cdots+n = \dfrac{n(n+1)}{2},
-$$ 
-para cada $n\in\mathbb{N}$ con $n\geq 1$.
+**Problema 1:** Demuestra que, para cada $n\in\mathbb{N}$, con $n\geq 1$,  $$1+2+\cdots+n = \dfrac{n(n+1)}{2}.$$ 
 <!--more-->
 
 ***
 
-Consideremos pues la propiedad, $P(n)$, dada en el enunciado 
-$$
-1+2+\cdots+n = \dfrac{n(n+1)}{2}
-$$ 
-y utilicemos el *principio de inducción matemática* para estudiar si se verifica para cada $n\in\mathbb{N}$ con $n\geq1$. 
+Generalmente, cuando abordamos problemas en los que tenemos que demostrar que cierta fórmula o afirmación se satisface, para un conjunto de índices de cardinal infinito (en esta ocasión hablaríamos del conjunto $n\geq1$, con $n\in\mathbb{N}$), es recomendable que llevemos a cabo una primera aproximación a su resolución empleando el *principio de inducción matemática*.
 
-El caso base, $P(1)$, se cumple trivialmente, ya que 
-$$
-1 = \dfrac{1\cdot2}{2} = 1.
-$$ 
+Así pues, vamos a considerar la propiedad, que denotaremos por $P(n)$, dada en el enunciado del problema, $$1+2+\cdots+n = \dfrac{n(n+1)}{2}.$$ 
 
-Ahora, mostremos que si $P(n)$ es cierta, con $n\geq1$, entonces asimismo lo es $P(n+1)$, esto es, que se verifica que 
-$$
-1+2+\cdots+n+(n+1)=\dfrac{(n+1)(n+2)}{2}.
-$$
+Por lo que respecta al *caso base*, $P(1)$, rápidamente comprobamos que se verifica de manera trivial, ya que $$1 = \dfrac{1\cdot2}{2} = 1.$$
 
-Podemos reescribir el miembro izquierdo de la anterior ecuación, aplicando $P(n)$, como sigue
-$$
-1+2+\cdots+n+(n+1) = \dfrac{n(n+1)}{2} + (n+1)
-$$
-y, operando,
-$$
-\dfrac{n(n+1)}{2} + (n+1) = \dfrac{n(n+1) + 2(n+1)}{2} = \dfrac{(n+1)(n+2)}{2},
-$$
-mostrando así que $P(n+1)$ es cierta. Así pues, por el *principio de inducción matemática*, $P(n)$ se verifica para cada $n\in\mathbb{N}$, con $n\geq 1$.
+Abordemos ahora el *paso inductivo*, para lo cual hemos de mostrar que si $P(n)$ se cumple, para un $n\geq1$, entonces asimismo se satisface $P(n+1)$, cuya expresión es $$1+2+\cdots+n+(n+1)=\dfrac{(n+1)(n+2)}{2}.$$ La clave en este tipo de situaciones consiste en encontrar una manera acertada de manipular la conocida como *hipótesis de inducción*, $P(n)$, que nos ayude a verificar el resultado que estamos buscando comprobar.
+
+Por fortuna para nosotros, si nos fijamos en el miembro izquierdo de la ecuación de $P(n+1)$, apreciamos que directamente aparece la suma de los $n$ primeros números naturales, cuyo valor, por la *hipótesis de inducción*, es $$\dfrac{n(n+1)}{2}.$$ Este hecho nos permite afirmar que $$1+2+\cdots+n+(n+1) = \dfrac{n(n+1)}{2} + (n+1).$$ Ahora, sumando algebraicamente ambos términos, $$\dfrac{n(n+1)}{2} + (n+1)= \dfrac{n(n+1) + 2(n+1)}{2}= \dfrac{(n+1)(n+2)}{2},$$ es decir, hemos llegado a mostrar que $$1+2+\cdots+n+(n+1)=\dfrac{(n+1)(n+2)}{2},$$ completando así el *paso inductivo*.
+
+Así pues, por el *principio de inducción matemática*, podemos concluir que $P(n)$ se verifica para cada $n\in\mathbb{N}$, con $n\geq 1$.
 
 ***
 
