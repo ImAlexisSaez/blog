@@ -5,7 +5,7 @@ date:   "2018-07-10T05:59:39+02:00"
 draft:  false
 bigimg: [{src: "img/blog/20180710-cabecera.jpg"}]
 apartados: ["Blog"]
-etiquetas: ["Sublime Text 3", "Markdown"]
+etiquetas: ["Markdown", "Sublime Text 3"]
 ---
 
 En una [entrada publicada](/2018/07/05/preparando-el-equipo-para-hugo/) hace unos días comenté que utilizo el editor de texto plano *Sublime Text 3* como herramienta predeterminada para escribir documentos con *Markdown*. Veamos cómo configurarlo para abordar tal empresa.
