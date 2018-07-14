@@ -11,7 +11,7 @@ etiquetas: ["Legislación", "Programación didáctica"]
 En esta entrada echaremos un vistazo al artículo "*Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria*", que viene de la mano de *Ignacio Polo* y *Gemma Puertas*.
 <!--more-->
 
-Empecemos ofreciendo la referencia completa del mencionado artículo, para el que me gustaría destacar que su acceso es libre, hecho que siempre agradezco y opino debería ser la norma a seguir:
+Empecemos ofreciendo la referencia completa del mencionado artículo, para el que me gustaría destacar que su acceso es libre, hecho que siempre agradezco y opino debería ser la norma que seguir:
 
 - Polo Martínez, I., & Puertas Bescós, G. (2017). Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria. *Avances en Supervisión Educativa*, (27). [https://doi.org/10.23824/ase.v0i27.593](https://doi.org/10.23824/ase.v0i27.593)
 
@@ -23,7 +23,7 @@ A la hora de elaborar una programación didáctica (PD) de cara a unas futuras o
 
 Sin pretender llevar a cabo un resumen del artículo en las siguientes líneas, sí que me gustaría compartir algunas ideas que me han resultado interesantes, sobre todo por lo que respecta a la elaboración de programaciones didácticas para las etapas de Secundaria y de Bachillerato:
 
-- Nuestra PD ha de partir del posicionamiento planteado en el *Poyecto Curricular de Etapa* (PCE) del centro, que es elaborado y revisado por la *Comisión de Coordinación Pedagógica* y en el se establecen directrices y propuestas globales de intervención educativa que facilitan la aplicación del currículo a la realidad educativa y específica de cada centro.
+- Nuestra PD ha de partir del posicionamiento planteado en el *Poyecto Curricular de Etapa* (PCE) del centro, que es elaborado y revisado por la *Comisión de Coordinación Pedagógica* y en él se establecen directrices y propuestas globales de intervención educativa que facilitan la aplicación del currículo a la realidad educativa y específica de cada centro.
 - Hemos de evitar concretar objetivos para un nivel o curso, pues la concreción de estos viene dada por los criterios de evaluación (CE) y los estándares de aprendizaje evaluables (EAE) de cada nivel.
 - No debemos crear o modificar CE ni EAE, aunque sí concretar estos últimos cuando la Administración no lo haya hecho. Por otro lado, ambos precisan la creación de instrumentos de evaluación.
 - Es un error que vinculemos la calificación del alumnado a los propios instrumentos de evaluación, sin considerar la evaluación continua de los referentes de evaluación (CE y EAE).
