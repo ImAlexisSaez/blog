@@ -152,7 +152,7 @@ Estas líneas facilitan la configuración de algunas características de la web,
 - `favicon`: es el icono que aparece, en el navegador, en la parte izquierda de la pestaña correspondiente a nuestro sitio web. El valor que hemos de asignar a esta variable será la ruta de acceso a la imagen que contiene el icono. Entraré en más detalles al respecto de este tema cuando aborde cómo configurar el *favicon* para el tema *Beautiful Hugo*.
 - `description`: breve subtítulo o eslogan que podemos añadir a la página web.
 - `facebook`, `twitter`, etc.: enlaces a las páginas de nuestras redes sociales, que permiten a los visitantes dar con nuestros perfiles muy fácilmente.
-- `featured_imagen`: ruta que apunta a la imagen que deseemos ubicar en la cabecera de nuestra página web.
+- `featured_image`: ruta que apunta a la imagen que deseemos ubicar en la cabecera de nuestra página web.
 - `recent_posts_number`: cantidad de artículos, de entre los últimos publicados, que aparecerán destacados en la página de entrada a nuestro sitio web.
 
 En esta serie de artículos no entraré en detalle en la modificación de las plantillas del tema *Ananke*. No obstante, en breve pasaremos a estudiar con profundidad el tema *Beautiful Hugo* y las ideas que exploremos, de cara a modificar diversos aspectos de un sitio web, se podrán extrapolar a cualquier tema, *Ananke* incluido.
