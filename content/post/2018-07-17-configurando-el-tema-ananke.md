@@ -95,7 +95,7 @@ El siguiente bloque de código:
   filename = "sitemap.xml"
 {{< / highlight >}}
 
-está dedicado a los parámetros de configuración del mapa del sitio web. Al igual que sucedía con la variable `Paginate`, configuraremos los valores de estas tres en función de la frecuencia con la que generemos contenido para nuestro sitio web. Seguramente, la única variable que modificaremos será `changefreq`, cambiando `"monthly"` por `"wwekly"` o, incluso, `"daily"`.
+está dedicado a los parámetros de configuración del mapa del sitio web. Al igual que sucedía con la variable `Paginate`, configuraremos los valores de estas tres en función de la frecuencia con la que generemos contenido para nuestro sitio web. Seguramente, la única variable que modificaremos será `changefreq`, cambiando `"monthly"` por `"wekly"` o, incluso, `"daily"`.
 
 Así pues, en mi caso, únicamente he colocado un comentario introductorio al bloque y, por supuesto, he continuado alineando valores por el simbolo `=`:
 
