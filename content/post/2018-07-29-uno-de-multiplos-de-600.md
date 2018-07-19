@@ -56,34 +56,34 @@ $$
 
 Nos faltaría una $n$ entre los términos $(n-1)$ y $(n+1)$ para tener en la primera parte de la expresión de $a_n$ cinco números naturales consecutivos, ya que, por hipótesis, $n>2$. No obstante, en realidad sí que tenemos a nuestro alcance dicha $n$, pues podemos escribir el término $n^2=n\cdot n$, y nos quedaría entonces que $$a_n = (n-2)(n-1)n(n+1)(n+2)n(n^2+1)(n^2+4).$$
 
-Esta situación nos invita a escribir $a_n = p\cdot q$, con
+Esta situación nos invita a escribir $a_n = u\cdot v$, con
 
 $$
 \begin{aligned}
-p&=(n-2)(n-1)n(n+1)(n+2),\\\\ q&=n(n^2+1)(n^2+4),
+u&=(n-2)(n-1)n(n+1)(n+2),\\\\ v&=n(n^2+1)(n^2+4),
 \end{aligned}
 $$
 
 y estudiar cada una de sus partes por separado
 
-Tal y como hemos indicado arriba, como $n>2$, en $p$ observamos el producto de cinco números naturales consecutivos, por lo que siempre seremos capaces de encontrar entre ellos un múltiplo de 2, uno de 3, uno de 4 y uno de 5. Es decir, sabemos que existe $k\in\mathbb{N}$ de manera que podemos escribir la factorización en números primos de $p$ como 
+Tal y como hemos indicado arriba, como $n>2$, en $u$ observamos el producto de cinco números naturales consecutivos, por lo que siempre seremos capaces de encontrar entre ellos un múltiplo de 2, uno de 3, uno de 4 y uno de 5. Es decir, sabemos que existe $k\in\mathbb{N}$ de manera que podemos escribir la factorización en números primos de $u$ como 
 
 $$
 \begin{aligned}
-p &= 2\cdot3\cdot4\cdot5\cdot k \\\\ &= 2^3\cdot 3\cdot 5\cdot k\\\\ &= 120\cdot k,
+u &= 2\cdot3\cdot4\cdot5\cdot k \\\\ &= 2^3\cdot 3\cdot 5\cdot k\\\\ &= 120\cdot k,
 \end{aligned}
 $$
 
-y, por tanto, $p$ es un múltiplo de 120. 
+y, por tanto, $u$ es un múltiplo de 120. 
 
-Bastaría ahora que comprobásemos que $$q=n(n^2+1)(n^2+4)$$ es múltiplo de 5 para que el enunciado del ejercicio propuesto se satisfaga. Llevaremos a cabo tal tarea utilizando restos potenciales módulo 5, de manera que analizaremos, acto seguido, todos y cada uno de los casos posibles que puede presentar $n$:
+Bastaría ahora que comprobásemos que $$v=n(n^2+1)(n^2+4)$$ es múltiplo de 5 para que el enunciado del ejercicio propuesto se satisfaga. Llevaremos a cabo tal tarea utilizando restos potenciales módulo 5, de manera que analizaremos, acto seguido, todos y cada uno de los casos posibles que puede presentar $n$:
 
-- Si $n\equiv 0\pmod{5}$, entonces trivialmente $q$ es múltiplo de 5, al ser $n$ uno de sus factores.
-- Si $n\equiv 1\pmod{5}$, entonces $(n^2+4)\equiv (1+4)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $q$ es múltiplo de 5, al ser $(n^2+4)$ uno de sus factores.
-- Si $n\equiv 2\pmod{5}$, entonces $(n^2+1)\equiv (4+1)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $q$ es múltiplo de 5, al ser $(n^2+1)$ uno de sus factores.
-- Si $n\equiv 3\pmod{5}$, entonces $(n^2+1)\equiv (9+1)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $q$ es múltiplo de 5, al ser $(n^2+1)$ uno de sus factores.
-- Si $n\equiv 4\pmod{4}$, entonces $(n^2+4)\equiv (16+4)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $q$ es múltiplo de 5, al ser $(n^2+4)$ uno de sus factores.
+- Si $n\equiv 0\pmod{5}$, entonces trivialmente $v$ es múltiplo de 5, al ser $n$ uno de sus factores.
+- Si $n\equiv 1\pmod{5}$, entonces $(n^2+4)\equiv (1+4)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $v$ es múltiplo de 5, al ser $(n^2+4)$ uno de sus factores.
+- Si $n\equiv 2\pmod{5}$, entonces $(n^2+1)\equiv (4+1)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $v$ es múltiplo de 5, al ser $(n^2+1)$ uno de sus factores.
+- Si $n\equiv 3\pmod{5}$, entonces $(n^2+1)\equiv (9+1)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $v$ es múltiplo de 5, al ser $(n^2+1)$ uno de sus factores.
+- Si $n\equiv 4\pmod{4}$, entonces $(n^2+4)\equiv (16+4)\pmod{5}\equiv 0\pmod{5}$ y, por tanto, $v$ es múltiplo de 5, al ser $(n^2+4)$ uno de sus factores.
 
-Así pues, como $p$ es múltiplo de 120, $q$ es múltiplo de 5 y $120\cdot 5=600$, podemos concluir que $a_n$, cuando $n>2$, es múltiplo de 600.
+Así pues, como $u$ es múltiplo de 120, $v$ es múltiplo de 5 y $120\cdot 5=600$, podemos concluir que $a_n$, cuando $n>2$, es múltiplo de 600.
 
 *P. S. (acerca de la imagen de cabecera):* tras este problema nos hemos ganado un helado como el que aparece en la fotografía de [Pablo Merchán Montes](https://unsplash.com/@pablomerchanm), disponible en [Unsplash](https://unsplash.com/photos/MXovqM130UI).
