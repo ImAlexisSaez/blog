@@ -15,7 +15,7 @@ Es habitual en estadística que trabajemos con tablas de contingencia, sobre tod
 
 Ahora bien, enseguida aparece la pregunta del millón: ¿cómo conseguimos ese efecto con *LaTeX*? La respuesta viene de la mano del paquete `slashbox`, cuyo uso es realmente sencillo. Veamos un ejemplo de aplicación:
 
-{{< highlight tex >}}
+```tex
 \documentclass{article}
  
 \usepackage[utf8]{inputenc}
@@ -37,7 +37,7 @@ Totales & $C_1$ & $C_2$ & $T$ \\
 \end{tabular}
  
 \end{document}
-{{< / highlight >}}
+```
 
 Podemos apreciar el resultado en la siguiente imagen:
 

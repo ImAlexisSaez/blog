@@ -23,7 +23,7 @@ A continuación, muestro los pasos que podemos seguir para ello:
 
 Con un ejemplo quedará más claro el procedimiento que hemos de seguir:
 
-{{< highlight tex >}}
+```tex
 \documentclass{article}
  
 \usepackage[utf8]{inputenc}
@@ -51,7 +51,7 @@ Con un ejemplo quedará más claro el procedimiento que hemos de seguir:
 \end{figure}
  
 \end{document}
-{{< / highlight >}}
+```
 
 Podemos apreciar el resultado en la siguiente imagen:
 

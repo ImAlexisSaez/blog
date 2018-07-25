@@ -7,3 +7,12 @@
 pre code.hljs {
   padding: 9.5px;
 }
+
+pre {
+    overflow-x: auto;
+}
+
+pre code {
+    word-wrap: normal;
+    white-space: pre;
+}

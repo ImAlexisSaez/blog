@@ -18,17 +18,17 @@ En primer lugar, abrimos la terminal *Git Bash* y nos dirigimos al directorio de
 
 Dicho esto, en este artículo seguiremos al dedillo las indicaciones dadas en la guía, de manera que en la terminal tecleamos:
 
-{{< highlight bash >}}
+```bash
 cd c:/Hugo/Sites/
-{{< / highlight >}}
+```
 
 El comando para generar un nuevo sitio web es `hugo new site [path] [flags]`, donde sustituiremos `[path]` por la ruta al directorio donde almacenaremos nuestra página web. Por lo que respecta a las `[flags]`, en el apartado de la documentación oficial dedicado a [hugo new site](https://gohugo.io/commands/hugo_new_site/) tenemos el listado de las disponibles. No obstante, para una primera toma de contacto, no añadiremos ninguna de ellas.
 
 Así pues, generemos un primer sitio de prueba y, en un alarde de extrema originalidad, ubiquémoslo en el directorio `\prueba\`. Para ello, escribimos en la terminal:
 
-{{< highlight bash >}}
+```bash
 hugo new site prueba
-{{< / highlight >}}
+```
 
 Recibimos entonces un mensaje de felicitación (en caso contrario, convendría que revisáramos la instalación de *Hugo* siguiendo las indicaciones de [esta entrada](/2018/07/08/instalando-hugo-en-windows/)) y algunas instrucciones relacionadas con el uso de temas, la creación de contenidos y el acceso local al sitio web.
 
@@ -40,23 +40,23 @@ En un futuro exploraremos con detalle el cometido de algunos de esos directorios
 
 Volvemos a la terminal, nos movemos hacia el directorio `\prueba\` e iniciamos un repositorio *Git*, acciones que requieren teclear los dos siguientes comandos:
 
-{{< highlight bash >}}
+```bash
 cd prueba
-{{< / highlight >}}
+```
 
-{{< highlight bash >}}
+```bash
 git init
-{{< / highlight >}}
+```
 
 En el siguiente paso de la guía nos invitan a instalar un tema para la web, [Ananke](https://themes.gohugo.io/gohugo-theme-ananke/), utilizando `submodule` (un comando de *Git*). No obstante, en este momento, me voy a desviar de las indicaciones dadas y optar por un método diferente de instalación de temas. A continuación, nos moveremos a la carpeta `\themes\` y clonaremos en nuestro disco duro el propio repositorio del tema. Para ello, escribimos en la terminal:
 
-{{< highlight bash >}}
+```bash
 cd themes
-{{< / highlight >}}
+```
 
-{{< highlight bash >}}
+```bash
 git clone https://github.com/budparr/gohugo-theme-ananke.git
-{{< / highlight >}}
+```
 
 De esta manera, tenemos acceso localmente a un sitio web de prueba, con un poco de contenido ya generado, que nos permitirá hacernos una idea del aspecto final de nuestro sitio web utilizando el tema *Ananke*. Aunque soy consciente de que me estoy desviando "ligeramente" de la guía oficial, vamos a tomar esta senda para ver cómo luce nuestro sitio web.
 
@@ -68,15 +68,15 @@ Copiamos tanto las dos carpetas, como el archivo `config.toml`, y pegamos todo e
 
 Ahora volvemos a la terminal, que todavía está apuntando a la carpeta `\themes\` y tecleamos
 
-{{< highlight bash >}}
+```bash
 cd ...
-{{< / highlight >}}
+```
 
 para volver al directorio raíz de nuestro sitio web. A continuación, para revisar el sitio web localmente escribimos
 
-{{< highlight bash >}}
+```bash
 hugo server
-{{< / highlight >}}
+```
 
 y, para mi sorpresa, recibimos el siguiente mensaje de error `Error: Unable to find theme Directory: C:\Hugo\gohugo-theme-ananke`, hecho que debe ser el *karma* haciendo acto de presencia por haberme desviado de las indicaciones de la guía oficial.
 
@@ -84,23 +84,23 @@ Aunque no quería meterme en este artículo en el contenido del archivo `config.
 
 Hacemos clic derecho sobre el mencionado fichero y lo abrimos con *Sublime Text*. Modificamos la quinta línea que aparece, de
 
-{{< highlight toml >}}
+```toml
 themesDir = "../.."
-{{< / highlight >}}
+```
 
 a
 
-{{< highlight toml >}}
+```toml
 # themesDir = "../.."
-{{< / highlight >}}
+```
 
 y guardamos los cambios. 
 
 Volvemos ahora a la terminal y tecleamos de nuevo
 
-{{< highlight bash >}}
+```bash
 hugo server
-{{< / highlight >}}
+```
 
 Tras recibir cierta información sobre el sitio, únicamente nos resta abrir nuestro navegador web favorito y en la barra de direcciones escribir `http://localhost:1313/`, accediendo así a la página de bienvenida de nuestro sitio web, que luce así de bien:
 

@@ -15,14 +15,14 @@ Por fortuna, tenemos a nuestra disposición el paquete [installr](https://cran.r
 
 De esta forma, basta con que tengamos a mano un *script* similar al que se muestra a continuación, y procedamos a ejecutarlo cuando se anuncie una nueva versión de *R*:
 
-{{< highlight r >}}
+```r
 # Instala el paquete
 install.packages("installr")
  
 # Actualiza R
 library(installr)
 updateR()
-{{< / highlight >}}
+```
 
 Al utilizar la función `updateR()`:
 
@@ -33,12 +33,12 @@ Si usamos *RStudio*, al principio se nos mostrará un aviso sugiriéndonos que l
 
 Finalmente, podemos ahorrarnos la sucesión de ventanas emergentes si sabemos de antemano que queremos actualizar *R*, mover (no copiar) las librerías y actualizarlas. Para ello, reescribimos el anterior script como sigue:
 
-{{< highlight r >}}
+```r
 # Instala / carga el paquete
 if(!require(installr)) {install.packages("installr"); require(installr)} 
  
 # Instala R, mueve y actualiza paquetes
 updateR(F, T, T, F, T, F, T)
-{{< / highlight >}}
+```
 
 *P. S. (acerca de la imagen de cabecera):* al ver la fotografía de [Artem Sapegin](https://unsplash.com/@sapegin), disponible en [Unsplash](https://unsplash.com/photos/DErxVSSQNdM), inmediatamente he pensado: "¿por qué no estará un usando un tema oscuro para programar?".

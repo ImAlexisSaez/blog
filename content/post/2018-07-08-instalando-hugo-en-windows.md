@@ -30,21 +30,21 @@ En primer lugar, bien desde la terminal, bien desde el explorador de archivos de
 
 Para ir acostumbrándonos al uso de la terminal *Git Bash*, todo el anterior proceso lo podíamos haber conseguido escribiendo en ella la siguiente serie de comandos:
 
-{{< highlight bash >}}
+```bash
 cd c:
-{{< / highlight >}}
+```
 
-{{< highlight bash >}}
+```bash
 mkdir Hugo
-{{< / highlight >}}
+```
 
-{{< highlight bash >}}
+```bash
 cd Hugo
-{{< / highlight >}}
+```
 
-{{< highlight bash >}}
+```bash
 mkdir bin Sites
-{{< / highlight >}}
+```
 
 A continuación, abrimos la página de descarga de *Hugo* siguiendo [este enlace](https://github.com/gohugoio/hugo/releases). A la hora de escribir estas líneas, la versión más reciente es la etiquetada como `v0.42.2`. Ahora, desplazamos con cuidado hacia abajo el extenso listado de ficheros, hasta dar con el adecuado para nuestro sistema operativo (en mi caso es `hugo_0.42.2_Windows-64bit.zip`). Hacemos clic sobre él e inmediatamente comenzará la descarga a nuestro disco duro de un archivo comprimido.
 

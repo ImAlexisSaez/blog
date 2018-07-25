@@ -18,13 +18,13 @@ Si en su momento nos decantamos por seguir, al pie de la letra, el contenido de 
 
 Parte de su contenido nos resultará familiar a estas alturas, pues ya tuvimos que editar el mencionado archivo para solventar el *bug* que nos impedía tener acceso local al sitio web. Empecemos examinando el primer bloque de código, aquel que comprende las siguientes cinco líneas:
 
-{{< highlight toml >}}
+```toml
 title = "Notre-Dame de Paris"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
-{{< / highlight >}}
+```
 
 Estamos ante una serie de pares `variable = valor`, en donde hemos de personalizar las cadenas de texto para que se ajusten a las opciones que deseamos de cara a nuestro sitio web. 
 
@@ -40,7 +40,7 @@ La siguiente línea, `theme = "gohugo-theme-ananke"`, le indica a *Hugo* en qué
 
 Por lo que respecta a la última línea de este bloque de código, para solventar el *bug* que nos impedía revisar localmente el sitio web, usamos el símbolo de comentario (`#`) para anularla. De esta forma, directamente podemos suprimirla, quedando definitivamente:
 
-{{< highlight toml >}}
+```toml
 #
 # Configuración básica del sitio web
 #
@@ -48,24 +48,24 @@ title        = "Infinitos Contrastes"             # Título
 baseURL      = "https://imalexissaez.github.io/"  # Enlace de entrada
 languageCode = "es"                               # Idioma
 theme        = "gohugo-theme-ananke"              # Ruta al tema
-{{< / highlight >}}
+```
 
 Recomiendo encarecidamente ir comentando el código fuente, para que en futuras revisiones sea más fácil encontrar aquello que andemos buscando. En cuanto a que todo quede alineado por el símbolo `=`, es simplemente una manía mía, no es necesario en absoluto.
 
 Pasemos ahora al siguiente bloque de código, el dado por 
 
-{{< highlight toml >}}
+```toml
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-{{< / highlight >}}
+```
 
 En mi caso, ha quedado como sigue:
 
-{{< highlight toml >}}
+```toml
 #
 # Configuración adicional del sitio web
 #
@@ -75,7 +75,7 @@ SectionPagesMenu       = "main" #
 Paginate               = 3      # Posts por página en main
 googleAnalytics        = ""     # Código para estadísticas web
 enableRobotsTXT        = true   # Buscadores
-{{< / highlight >}}
+```
 
 ya que:
 
@@ -88,18 +88,18 @@ ya que:
 
 El siguiente bloque de código:
 
-{{< highlight toml >}}
+```toml
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-{{< / highlight >}}
+```
 
 está dedicado a los parámetros de configuración del mapa del sitio web. Al igual que sucedía con la variable `Paginate`, configuraremos los valores de estas tres en función de la frecuencia con la que generemos contenido para nuestro sitio web. Seguramente, la única variable que modificaremos será `changefreq`, cambiando `"monthly"` por `"weekly"` o, incluso, `"daily"`.
 
 Así pues, en mi caso, únicamente he colocado un comentario introductorio al bloque y, por supuesto, he continuado alineando valores por el simbolo `=`:
 
-{{< highlight toml >}}
+```toml
 #
 # Configuración del mapa de la web
 #
@@ -107,11 +107,11 @@ Así pues, en mi caso, únicamente he colocado un comentario introductorio al bl
   changefreq = "monthly"
   priority   = 0.5
   filename   = "sitemap.xml"
-{{< / highlight >}}
+```
 
 Para finalizar, el último bloque de código:
 
-{{< highlight toml >}}
+```toml
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
@@ -125,11 +125,11 @@ Para finalizar, el último bloque de código:
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
-{{< / highlight >}}
+```
 
 me ha quedado
 
-{{< highlight toml >}}
+```toml
 #
 # Configuración de parámetros de la web
 #
@@ -145,7 +145,7 @@ me ha quedado
   background_color_class = "bg-black"
   featured_image         = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number    = 2
-{{< / highlight >}}
+```
 
 Estas líneas facilitan la configuración de algunas características de la web, como pueden ser:
 

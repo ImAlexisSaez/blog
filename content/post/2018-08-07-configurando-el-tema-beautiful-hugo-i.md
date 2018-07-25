@@ -18,15 +18,15 @@ Me encanta este tema por el protagonismo que ofrece al contenido, evitando toda 
 
 Así pues, procedamos a su instalación. Para ello, en la terminal, desde el directorio raíz donde hayamos escogido alojar localmente nuestro sitio web, tecleamos:
 
-{{< highlight bash >}}
+```bash
 cd themes
-{{< / highlight >}}
+```
 
 y clonamos, en esta carpeta, el tema *Beautiful Hugo* escribiendo:
 
-{{< highlight bash >}}
+```bash
 git clone https://github.com/halogenica/beautifulhugo.git beautifulhugo
-{{< / highlight >}}
+```
 
 Al igual que el tema *Anake*, *Beautiful Hugo* viene acompañado, para nuestro gozo y disfrute, con un pequeño sitio web de muestra, ubicado en la carpeta `exampleSite` (siendo la ruta completa `\themes\beautifulhugo\exampleSite`). A través del *Explorador de archivos* de *Windows* podemos comprobar que su contenido es el que se muestra en la siguiente imagen:
 
