@@ -25,7 +25,7 @@ Además, el texto aporta una serie de referencias a la legislación de cada una 
 
 Sin embargo, el principal atractivo de este TFM son los capítulos 3 y 5, que recogen los enunciados de los problemas de oposición de las convocatorias analizadas y adjuntan su resolución completa. Si bien es cierto que ya el autor nos advierte que la mayoría de las soluciones proceden de los volúmenes publicados por la editorial *Deimos* (me refiero a los que figuran en [esta página](http://www.academiadeimos.es/?page_id=1025)), aporta, en algunos casos, alternativas que nos resultarán de interés.
 
-Finalmente, en el apartado de conclusiones, tras finalizar la resolución de los problemas correspondientes a cinco convocatorias, el autor ofrece su opinión al respecto de la evolución de la dificultad de los enunciados propuestos:
+Tras finalizar la resolución de los problemas correspondientes a cinco convocatorias, en el apartado de conclusiones el autor ofrece su opinión al respecto de la evolución de la dificultad de los enunciados propuestos:
 
 > La tendencia que se percibe es una preferencia por problemas en los que hace falta dominar la comprensión significativa del temario. Hace falta comprender los temas como teoría que estudia cómo se relacionan unos conceptos, en vez de comprenderlos como conjunto de resultados y procedimientos que han de ser aplicados de forma más o menos enrevesada.
 > 
