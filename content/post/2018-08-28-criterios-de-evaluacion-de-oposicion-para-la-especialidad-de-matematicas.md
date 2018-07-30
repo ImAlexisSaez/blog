@@ -33,7 +33,7 @@ En la segunda página de este recurso encontramos los elementos que se valorará
     - Argumenta los contenidos.
     - Profundiza en los mismos, siendo la información de cada parte lo más completa y exhaustiva posible.
     - No existen errores de contenido o concepto.
-    - Relaciona el tema elegido con otros con otros temas.
+    - Relaciona el tema elegido con otros temas.
 3. Expresión.
     - Muestra fluidez en la redacción.
     - Hace un uso adecuado del lenguaje, con una correcta ortografía y una buena construcción sintáctica.
