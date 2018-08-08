@@ -5,7 +5,7 @@ date:   "2018-08-07T05:59:39+02:00"
 draft:  false
 bigimg: [{src: "img/blog/20180807-cabecera.jpg"}]
 apartados: ["Blog"]
-etiquetas: ["Hugo", "Beatiful Hugo"]
+etiquetas: ["Hugo", "Beautiful Hugo"]
 proyectos: ["MetaBlog"]
 ---
 
