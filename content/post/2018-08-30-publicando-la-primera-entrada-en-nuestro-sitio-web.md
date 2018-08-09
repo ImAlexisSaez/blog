@@ -80,4 +80,6 @@ Tras declarar la cabecera, redactaremos un párrafo (o varios) de introducción 
 
 Tras la instrucción `<!--more-->`, finalmente, ya solo nos restará explayarnos tanto como deseemos en el cuerpo de la entrada. *The sky is the limit!*
 
+En el próximo artículo del [Proyecto MetaBlog](/proyectos/metablog/) estudiaremos cómo utilizar *GitHub* para alojar nuestra página web en *Internet*.
+
 *P. S. (acerca de la imagen de cabecera):* llegados a este punto, por fin estamos en condiciones de generar una ingente cantidad de contenido para nuestro sitio web. Simplemente hemos de armanos de papel y pluma, tal y como aparece en la fotografía de [Aaron Burden](https://unsplash.com/@aaronburden), disponible en [Unsplash](https://unsplash.com/photos/xG8IQMqMITM), y dar rienda suelta a nuestra imaginación.
