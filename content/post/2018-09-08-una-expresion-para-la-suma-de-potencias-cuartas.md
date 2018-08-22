@@ -14,11 +14,11 @@ proyectos: ["Problemas"]
 
 ***
 
-Vaya por delante que estamos ante uno de esos ejemplos que rápidamente se ganan el apelativo de tediosos, no tanto por su dificultad, sino por el elevado número de operaciones algebraicas que debemos llevar a cabo durante el proceso de su resolución. 
+Vaya por delante que estamos ante uno de esos problemas que rápidamente se ganan el apelativo de tediosos, no tanto por su dificultad, sino por el elevado número de operaciones algebraicas que debemos llevar a cabo durante el proceso de su resolución. 
 
 Cuando en una propiedad a verificar aparecen involucrados polinomios de grado considerable, la segunda parte del *principio de inducción matemática* conlleva el desarrollo de múltiples binomios de la forma $(n+1)^m$, con $m\in\mathbb{N}$. Para reducir un tanto el tedio, siempre es aconsejable que, en primer lugar, factoricemos los mencionados polinomios.
 
-Como nota curiosa, consultados diferentes recursos didácticos, la fórmula para la suma de las potencias cuartas de los $n$ primeros números naturales suele venir dada por $$1^4+2^4+\cdots+n^4=\dfrac{6n^5+15n^4+10n^3-n}{30},$$ hecho que nos puede llevar a sospechar que la proporcionada en el enunciado del presente ejemplo ya está completamente factorizada.
+Como nota curiosa, consultados diferentes recursos didácticos, la fórmula para la suma de las potencias cuartas de los $n$ primeros números naturales suele venir dada por $$1^4+2^4+\cdots+n^4=\dfrac{6n^5+15n^4+10n^3-n}{30},$$ hecho que nos puede llevar a sospechar que la proporcionada en el enunciado del presente problema ya está completamente factorizada.
 
 No obstante, como por naturaleza hemos de ser recelosos, utilicemos el *Teorema de la raíz racional* para investigar si podemos escribir el polinomio $6n^3+9n^2+n-1$ de una manera que nos resulte más cómoda de cara a futuras operaciones con él. Recordemos que, dada una ecuación polinómica con coeficientes enteros $$a\_mn^m + a_{m-1}n^{m-1} + \cdots + a_0=0,$$ si $a_0$ y $a_m$ son enteros distintos de cero, entonces las posibles soluciones que son del tipo $n = p/q$ satisfacen:
 
@@ -26,7 +26,7 @@ No obstante, como por naturaleza hemos de ser recelosos, utilicemos el *Teorema 
 - $q$ es divisor de $a_m$.
 - $p$ y $q$ son primos entre sí.
 
-En nuestro ejemplo, el conjunto de candidatos para $p$ es $\\{\pm1\\}$, mientras que para $q$ es $\\{\pm1,\pm2,\pm3,\pm6\\}$ y rápidamente podemos comprobar que $n = -1 / 2$ es solución del polinomio dado. Así, $$6n^3+9n^2+n-1 = (2n+1)(3n^2+3n-1),$$ de manera que
+En nuestro problema, el conjunto de candidatos para $p$ es $\\{\pm1\\}$, mientras que para $q$ es $\\{\pm1,\pm2,\pm3,\pm6\\}$ y rápidamente podemos comprobar que $n = -1 / 2$ es solución del polinomio dado. Así, $$6n^3+9n^2+n-1 = (2n+1)(3n^2+3n-1),$$ de manera que
 $$
 \begin{aligned}
 \sum_{k=1}^{n}{k^4} &= 1^4+2^4+\cdots+n^4\\\\ &= \dfrac{n(n+1)(6n^3+9n^2+n-1)}{30}\\\\ &=\dfrac{n(n+1)(2n+1)(3n^2+3n-1)}{30}.
