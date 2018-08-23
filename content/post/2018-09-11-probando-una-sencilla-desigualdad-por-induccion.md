@@ -14,7 +14,7 @@ proyectos: ["Problemas"]
 
 ***
 
-Hagamos uso del *principio de inducción matemática*, dado en el teorema 1.1 (ver abajo), para demostrar la desigualdad planteada en el enunciado del ejemplo. Enseguida apreciamos que esta se cumple de forma trivial para $n=1$, ya que
+Hagamos uso del *principio de inducción matemática*, dado en el teorema 1.1 (ver abajo), para demostrar la desigualdad planteada en el enunciado del problema. Enseguida apreciamos que esta se cumple de forma trivial para $n=1$, ya que
 $$
 1 < 2^1 = 2.
 $$
