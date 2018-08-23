@@ -26,4 +26,4 @@ Además, aunque encontramos los anteriores factores expuestos de manera separada
 
 Merece la pena dedicar un poco de nuestro tiempo a la lectura y estudio de este texto.
 
-*P. S. (acerca de la imagen de cabecera):* supongo que cuando llegue invierno utilizaré fotos de lava y volcanes, alejadas de la refrescanta sensación que transmite la fotografía de [Tyler Lastovich](https://unsplash.com/@lastly), disponible en [Unsplash](https://unsplash.com/photos/QqRHhYkk-A4).
+*P. S. (acerca de la imagen de cabecera):* supongo que cuando llegue invierno utilizaré fotos de lava y volcanes, alejadas de la refrescante sensación que transmite la fotografía de [Tyler Lastovich](https://unsplash.com/@lastly), disponible en [Unsplash](https://unsplash.com/photos/QqRHhYkk-A4).
