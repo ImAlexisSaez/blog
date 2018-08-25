@@ -14,7 +14,7 @@ En el presente artículo abordaremos con sumo detalle un problema propuesto en l
 
 ***
 
-**Problema 9:** Demuestra que, para cada $n\in\mathbb{N}$, $4^{n+1}+5^{2n-1}$ es un múltiplo de 21.
+**Problema 9:** Demuestra que, para cada $n\in\mathbb{N}$, con $n\geq 1$, $4^{n+1}+5^{2n-1}$ es un múltiplo de 21.
 
 ***
 
