@@ -1,11 +1,11 @@
 ---
-title:  "Empezando con teoría de números"
-slug:   "empezando-con-teoria-de-numeros"
+title:  "Empezando con teoría de números (I)"
+slug:   "empezando-con-teoria-de-numeros-i"
 date:   "2018-10-09T05:59:39+02:00"
 draft:  false
 bigimg: [{src: "img/blog/20181009-cabecera.jpg"}]
 apartados: ["Oposiciones"]
-etiquetas: ["Teoría de números"]
+etiquetas: ["Teoría de números", "Fermat"]
 proyectos: ["Problemas"]
 ---
 
