@@ -91,4 +91,4 @@ Obteniendo como resultado el que aparece en la siguiente imagen:
 
 {{< figure src="/img/blog/20181107-img03.png" width="100%" >}}
 
-*P. S. (acerca de la imagen de cabecera):* impresionante la fotografía de [eberhard grossgasteiger](https://unsplash.com/@eberhardgross), disponible en [Unsplash](https://unsplash.com/photos/1u8pmarLMck). 
+*P. S. (acerca de la imagen de cabecera):* muy impresionante la fotografía de [eberhard grossgasteiger](https://unsplash.com/@eberhardgross), disponible en [Unsplash](https://unsplash.com/photos/1u8pmarLMck). 
