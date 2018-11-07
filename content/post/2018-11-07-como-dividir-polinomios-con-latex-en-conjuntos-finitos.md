@@ -1,5 +1,5 @@
 ---
-title:  "¿Cómo dividir polinomios con LaTeX? (en conjuntos finitos)"
+title:  "¿Cómo dividir polinomios con LaTeX en conjuntos finitos?"
 slug:   "como-dividir-polinomios-con-latex-en-conjuntos-finitos"
 date:   "2018-11-07T05:59:39+02:00"
 draft:  false
