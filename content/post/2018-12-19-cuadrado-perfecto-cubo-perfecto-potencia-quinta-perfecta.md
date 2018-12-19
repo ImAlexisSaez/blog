@@ -17,7 +17,7 @@ proyectos: ["Problemas"]
 
 Dado que podemos dividir $n$ por $2$, $3$ y $5$ y el resultado de dichas operaciones continúa siendo un número natural (porque se trata, respectivamente de cuadrado, cubo y potencia quinta perfectos), ello implica que en su descomposición en factores primos aparecerán los términos $2^x$, $3^y$ y $5^z$, con $x,y,z\geq 1$. En ejercicios anteriores también considerábamos la posibilidad de un término entero $k$ que agrupaba potencias de números primos distintos a los tres mencionados anteriormente, pero, en esta ocasión, como nuestro objetivo es hallar el menor natural $n$ que satisface las condiciones del enunciado del ejercicio, asumiremos que $k=1$. Así, $n=2^x3^y5^z$.
 
-Ahora bien, como $n/2 = 2^{x-1}3^y5^z$ es un cuadrado perfecto, los exponentes de la factorización dada serán múltiplos de dos ($x-1=\dot{2}$, $y=\dot{2}$, $z=\dot{2}$). Al ser $n/3 = 2^x3^{y-1}5^z$ un cubo perfecto, los exponentes anteriores serán múltiplos de $3$ ($x=\dot{3}, y-1=\dot{3}, z=\dot{3}$). Finalmente, como $n/5 = 2^x3^y5^{z-1}$ es una potencia quinta perfecta, los exponentes previos serán múltiplos de $5$ ($x=\dot{5},y=\dot{5},z-1=\dot{5}$).
+Ahora bien, como $n/2 = 2^{x-1}3^y5^z$ es un cuadrado perfecto, los exponentes de la factorización dada serán múltiplos de dos ($x-1=\dot{2}$, $y=\dot{2}$, $z=\dot{2}$). Al ser $n/3 = 2^x3^{y-1}5^z$ un cubo perfecto, los exponentes anteriores serán múltiplos de $3$ ($x=\dot{3}$, $y-1=\dot{3}$, $z=\dot{3}$). Finalmente, como $n/5 = 2^x3^y5^{z-1}$ es una potencia quinta perfecta, los exponentes previos serán múltiplos de $5$ ($x=\dot{5}$, $y=\dot{5}$, $z-1=\dot{5}$).
 
 Así pues, para $x$ surge el siguiente sistema de congruencias lineales
 $$
