@@ -105,7 +105,7 @@ El anterior bloque de código se encarga, de manera automática, del proceso de 
 
 En mi caso, no me suelo esforzar mucho en declarar mensajes óptimamente descriptivos y, por ejemplo, cuando suba esta entrada el comando será del estilo `./deploy.sh "Añade entrada 20180901"`. Los mensajes asociados al repositorio donde guardo el código fuente sí que intento que sean más expresivos y reflejen adecuadamente los cambios de las diferentes versiones.
 
-Con esto, damos por finalizado el proceso y nuestro sitio web será ahora accesible para todo el mundo a través de la dirección web que proporciona el segundo repositorio que hemos creado (en mi caso [`https://imalexissaez.github.io/`](https://imalexissaez.github.io/)).
+Con esto, damos por finalizado el proceso y nuestro sitio web será ahora accesible para todo el mundo a través de la dirección web que proporciona el segundo repositorio que hemos creado (en mi caso `https://imalexissaez.github.io/`).
 
 En la siguiente entrada del [Proyecto MetaBlog](/proyectos/metablog/) posiblemente empecemos a realizar cambios en la hoja de estilos *CSS* y personalizar todavía más el tema *Beautiful Hugo*.
 

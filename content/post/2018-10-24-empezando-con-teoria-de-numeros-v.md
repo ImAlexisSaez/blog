@@ -49,4 +49,4 @@ Recíprocamente, si $d-2u$ es múltiplo de $7$, entonces $(d-2u)\equiv 0\pmod{7}
 
 Veamos en acción esta proposición con un par de ejemplos sencillos. Si $n=63 = 60+3$, entonces $d = 6$, $u=3$ y $d-2u = 6-2\cdot3=0$ que, efectivamente, es un múltiplo de $7$, luego $63$ asimismo lo es. Si $n = 9009$, tenemos que $d = 900$, $u=9$ y $d-2u = 900-2\cdot9=882 = 7\cdot126$, luego $d-2u$ es un múltiplo de $7$, por lo que podemos concluir que el número $9009$ también lo es.
 
-*P. S. (acerca de la imagen de cabecera):* la fotografía de [Redd Angelo](https://unsplash.com/@reddangelo), disponible en [Unsplash](https://unsplash.com/photos/9yWcy5B-haM), muestra otra de esas preciosas simetrías que se generan haciendo uso del reflejo sobre el agua.
+*P. S. (acerca de la imagen de cabecera):* la fotografía de [Banter Snaps](https://unsplash.com/@bantersnaps), disponible en [Unsplash](https://unsplash.com/photos/9yWcy5B-haM), muestra otra de esas preciosas simetrías que se generan haciendo uso del reflejo sobre el agua.
