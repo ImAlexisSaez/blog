@@ -50,7 +50,7 @@ De esta manera, transcurridos unos segundos, tendremos disponible en *GitHub* un
 
 A continuación, volvemos a *GitHub* y creamos un nuevo repositorio. Este último tendrá un nombre especial que será, además, la dirección de acceso a nuestro sitio web. Hemos de combinar nuestra cuenta de usuario en *GitHub* con la extensión `.github.io`. Por ejemplo, en mi caso queda `ImAlexisSaez.github.io` y así es como rellené en su momento el campo `Repository name`. Una vez escrito, simplemente tenemos que hacer clic en el botón `Create repository`.
 
-Volvemos a la terminal del sistema y tecleamos `hugo server`, para poder dar así una última revisión local a nuestro sitio web, utilizando la dirección [http://localhost:1313](http://localhost:1313), y comprobar que todo está en perfecto estado. Cuando estemos satisfechos, acudimos de nuevo a la terminal del sistema y cerramos el servidor local, empleando para ello la combinación de teclas `Ctrl + c`.
+Volvemos a la terminal del sistema y tecleamos `hugo server`, para poder dar así una última revisión local a nuestro sitio web, utilizando la dirección ``http://localhost:1313`, y comprobar que todo está en perfecto estado. Cuando estemos satisfechos, acudimos de nuevo a la terminal del sistema y cerramos el servidor local, empleando para ello la combinación de teclas `Ctrl + c`.
 
 Acto seguido, escribimos:
 

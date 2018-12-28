@@ -101,7 +101,7 @@ Recojo, a continuación, algunos enlaces, que han surgido a lo largo del artícu
 - [Machine Learning with scikit learn Part One - SciPy 2017 Tutorial - Andreas Mueller & Alexandre Gram](https://youtu.be/2kT6QOVSgSg).
 - [Machine Learning with scikit learn Part Two - SciPy 2017 Tutorial - Andreas Mueller & Alexandre Gram](https://youtu.be/WLYzSas511I).
 - [Repositorio](https://github.com/amueller/scipy-2017-sklearn) en *GitHub* asociado al tutorial.
-- [Anaconda](https://www.continuum.io/downloads).
+- [Anaconda](https://www.continuum.io/download).
 - [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.y34eIOY).
 
 *P. S. (acerca de la imagen de cabecera):* al ver la fotografía de [Aaron Huber](https://unsplash.com/@aahubs), disponible en [Unsplash](https://unsplash.com/photos/V09Io5ln-Qo), he sentido que el coche estaba juzgando mis últimas decisiones sobre las actividades en las que invierto mi tiempo libre.
