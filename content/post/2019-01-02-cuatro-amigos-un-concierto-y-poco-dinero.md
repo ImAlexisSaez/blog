@@ -13,7 +13,7 @@ proyectos: ["Problemas"]
 
 Cada uno de ellos posee una cifra entera mayor o igual que cero de euros y, curiosamente, además
 
-- si Belen le pide un euro a Ana, consigue acumular dos tercios de la cantidad que le quedaría a Ana;
+- si Belén le pide un euro a Ana, consigue acumular dos tercios de la cantidad que le quedaría a Ana;
 - si Carlos toma prestados dos euros de Belén, llega a acumular tres quintos de la cantidad que le quedaría a Belén;
 - si David le pide tres euros a Carlos, consigue acumular cinco séptimos de la cantidad que le quedaría a Carlos.
 
