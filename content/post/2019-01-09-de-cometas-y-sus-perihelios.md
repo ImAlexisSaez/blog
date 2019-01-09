@@ -21,7 +21,7 @@ Así pues, hemos de resolver el siguiente sistema de ecuaciones de congruencias 
 
 $$
 \begin{aligned}
-x&\equiv 2017\pmod{3}\equiv 1\pmod{3},\\\\ x&\equiv 2014\pmod{8},\equiv 6\pmod{8}\\\\ x&\equiv 2008\pmod{13}\equiv 6\pmod{13}.
+x&\equiv 2017\pmod{3}\equiv 1\pmod{3},\\\\ x&\equiv 2014\pmod{8}\equiv 6\pmod{8}\\\\ x&\equiv 2008\pmod{13}\equiv 6\pmod{13}.
 \end{aligned}
 $$
 
