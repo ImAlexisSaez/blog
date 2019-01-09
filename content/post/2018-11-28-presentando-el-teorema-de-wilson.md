@@ -50,4 +50,4 @@ $$
 $$
 y juntando ambos resultados alcanzados, concluimos que $18!\equiv (-1)\pmod{23}$, luego $(18!+1)\equiv (-1+1)\pmod{23}\equiv 0\pmod{23}$, es decir, $18!+1$ es múltiplo de $23$, y como también lo era de $19$, concluimos que asimismo lo será de $19\cdot23=437$.
 
-*P. S. (acerca de la imagen de cabecera):* fotografía de [Ghost Presenter](https://unsplash.com/@ghostpresenter), disponible en [Unsplash](https://unsplash.com/photos/p3NOK6MhvKQ).
+*P. S. (acerca de la imagen de cabecera):* fotografía de [Francesco Ungaro](https://unsplash.com/@francesco_ungaro), disponible en [Unsplash](https://unsplash.com/photos/p3NOK6MhvKQ).
