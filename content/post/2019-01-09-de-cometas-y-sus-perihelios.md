@@ -9,7 +9,7 @@ etiquetas: ["Teoría de números"]
 proyectos: ["Problemas"]
 ---
 
-**Problema 41:** Los cometas *2p/Encke*, *4P/Faye* y *8p/Tuttle* tienen períodos orbitales de $3$, $8$ y $13$ años, respectivamente. Los últimos perihelios (punto más cercano de la órbita de un cuerpo celeste alrededor del Sol) de cada uno de ellos fueron en $2017$, $2014$ y $2008$, respectivamente. ¿Cuál será el siguiente año en el cual coincidan sus perihelios? (Para este problema, asume que el tiempo se mide en años completos y que  cada período orbital es constante.)
+**Problema 41:** Los cometas *2p/Encke*, *4P/Faye* y *8p/Tuttle* tienen períodos orbitales de $3$, $8$ y $13$ años, respectivamente. Los últimos perihelios (punto más cercano de la órbita de un cuerpo celeste alrededor del Sol) de cada uno de ellos fueron en $2017$, $2014$ y $2008$, respectivamente. ¿Cuál será el siguiente año en el cual coincidan sus perihelios? (Para este problema, asume que el tiempo se mide en años completos y que cada período orbital es constante.)
 
 <!--more-->
 
