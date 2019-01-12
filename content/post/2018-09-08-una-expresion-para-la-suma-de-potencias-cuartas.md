@@ -95,4 +95,4 @@ Entonces todo entero positivo pertenece al conjunto $S$.
 
 ***
 
-*P. S. (acerca de la imagen de cabecera):* se me ha quedado la misma cara que al buho de la fotografía de [Victor Benard](https://unsplash.com/@vics_pics), disponible en [Unsplash](https://unsplash.com/photos/_JgUBSKY3vk), cuando he visto la expresión que había que demostrar.
+*P. S. (acerca de la imagen de cabecera):* disponible en [Unsplash](https://unsplash.com/).
