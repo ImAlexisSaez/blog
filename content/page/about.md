@@ -1,6 +1,7 @@
 ---
 title: "Acerca de"
 comments: false
+toc: true
 ---
 
 !Bienvenidos a *Infinitos Contrastes*!
