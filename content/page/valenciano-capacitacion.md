@@ -7,7 +7,7 @@ En aquesta pàgina recolliré diversos recursos i informació relacionats amb el
 
 ## 1. Temari
 
-Per a preparar les proves lliures, podem utilitzar les unitats disponibles a la web del curs que ofereix el [cefire](http://cefire.edu.gva.es/course/view.php?id=14644).
+Per a preparar les proves lliures, és recomanable utilitzar les unitats disponibles a la web del curs que ofereix el [cefire](http://cefire.edu.gva.es/course/view.php?id=14644).
 
 <center>
 
@@ -21,4 +21,40 @@ Per a preparar les proves lliures, podem utilitzar les unitats disponibles a la 
 
 </center>
 
+## 2. Descripció de la prova
+
+1. La prova durarà dos hores i mitja.
+2. Conté dos parts: una oral i una escrita.
+   - En la part escrita cal elaborar un text, de 250 paraules almenys, relacionat amb un dels dos temes proposats. A més a més, s'ha d'omplir un qüestionari de 20 preguntes: 10 d'opció múltiple i 10 de verdader o fals.
+   - En la part oral cal exposar un monòleg, que no serà gravat i durarà cinc minuts aproximadament, associat amb un dels dos temes proposats. 
+3. S'ha de superar la part escrita i la part oral de manera independent.
+
+## 3. Criteris d'avaluació
+
+En relació amb la part escrita:
+
+- El text té una valoració màxima de 80 punts i es descompta un punt per cada errada gramatical o ortogràfica comesa. Els textos de menys de 250 paraules (una paraula és una unitat lingüística que se separa de la resta mitjançant un espai en blanc en l'escriptura) obtindran una qualificació de zero punts. 
+- En el qüestionari:
+    + Cada encert sumarà un punt.
+    + Cada errada restarà bé 0,5 punts (per a les qüestions de verdader o fals) bé 0,25 punts (per a les d'opció múltiple).
+    + Cada resposta en blanc ni sumarà ni restarà punts.
+
+S'obtindrà un apte en aquesta part si la qualificació total és superior a 60 punts
+
+Pel que fa a la intervenció oral, aquesta té una valoració màxima de 30 punts, dividits com s'indica a continuació:
+
+- Pronunciació: 3 punts.
+- Lèxic: 3 punts.
+- Morfosintaxi: 3 punts.
+- Cohesió i coherència textual: 3 punts.
+- Adequació: 3 punts.
+- Contingut: 15 punts.
+
+S'obtindrà un apte en aquesta part si la qualificació total és superior a 18 punts.
+
+***
+
 *Data d'última modificació*: 30 de gener de 2019.
+
+***
+
