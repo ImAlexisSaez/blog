@@ -70,7 +70,7 @@ googleAnalytics = "UA-88993800-1"
 #
 [[menu.main]]
     identifier = "menu"
-    name       = "Menú"
+    name       = "Blog"
     weight     = 1
 
 [[menu.main]]
@@ -92,9 +92,26 @@ googleAnalytics = "UA-88993800-1"
     weight = 3
 
 [[menu.main]]
+    identifier = "valenciano"
+    name       = "Valencià"
+    weight     = 2
+
+[[menu.main]]
+    parent = "valenciano"
+    name   = "Nivell C1"
+    url    = "page/valenciano-c1/"
+    weight = 1
+
+[[menu.main]]
+    parent = "valenciano"
+    name   = "Capacitació"
+    url    = "page/valenciano-capacitacion/"
+    weight = 2
+
+[[menu.main]]
     name   = "Acerca de"
     url    = "page/about/"
-    weight = 2
+    weight = 3
 
 #
 # Configuración de taxonomías
