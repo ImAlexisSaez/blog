@@ -1,6 +1,5 @@
 ---
 title: "Capacitació"
-comments: false
 ---
 
 En aquesta pàgina recolliré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant).
