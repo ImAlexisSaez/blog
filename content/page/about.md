@@ -1,5 +1,8 @@
 ---
-title: "Acerca de"
+title:  "Acerca de"
+slug:   "acerca-de"
+draft:  false
+bigimg: [{src: "img/about-cabecera.jpg"}]
 comments: false
 ---
 

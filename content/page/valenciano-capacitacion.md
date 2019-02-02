@@ -1,12 +1,15 @@
 ---
 title: "Capacitació"
+slug:   "valenciano-capacitacion"
+draft:  false
+bigimg: [{src: "img/valenciano-capacitacion-cabecera.jpg"}]
 ---
 
-En aquesta pàgina recolliré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant).
+En aquesta pàgina recolliré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per a obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací ens centrarem específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen diverses oposicions que requereixen el *CC*).
 
 ## 1. Temari
 
-Per a preparar les proves lliures, és recomanable utilitzar les unitats disponibles a la web del curs que ofereix el [cefire](http://cefire.edu.gva.es/course/view.php?id=14644).
+Per a preparar les esmentades proves, és recomanable utilitzar les unitats disponibles a la web del curs que ofereix el [cefire](http://cefire.edu.gva.es/course/view.php?id=14644).
 
 <center>
 
@@ -55,5 +58,5 @@ S'obtindrà un apte en aquesta part si la qualificació total és superior a 18 
 
 *Data d'última modificació*: 30 de gener de 2019.
 
-***
+
 
