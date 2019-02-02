@@ -6,7 +6,7 @@ bigimg: [{src: "img/valenciano-capacitacion-cabecera.jpg"}]
 comments: true
 ---
 
-En aquesta pàgina recolliré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per a obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací ens centrarem específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen diverses oposicions que requereixen el *CC*).
+En aquesta pàgina compilaré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací ens centrarem específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen diverses oposicions que requereixen el *CC*).
 
 ## 1. Temari
 
