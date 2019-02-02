@@ -110,7 +110,7 @@ googleAnalytics = "UA-88993800-1"
 
 [[menu.main]]
     name   = "Acerca de"
-    url    = "page/about/"
+    url    = "page/acerca-de/"
     weight = 3
 
 #
