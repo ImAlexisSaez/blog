@@ -6,7 +6,7 @@ bigimg: [{src: "img/valenciano-capacitacion-cabecera.jpg"}]
 comments: true
 ---
 
-En aquesta pàgina compilaré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (*CC* d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací ens centrarem específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen diverses oposicions que requereixen el *CC*).
+En aquesta pàgina compilaré diversos recursos i informació relacionats amb el *Certificat de Capacitació* en valencià (CC d'ara endavant). Cada universitat de la Comunitat Valenciana ofereix cursos per obtindre aquesta certificació (i també moltes acadèmies privades de la zona); no obstant això, ací em centraré específicament en les proves lliures, que són gratuïtes i es convoquen ordinàriament un parell de vegades a l'any (i extraordinàriament alguna volta més, sobretot quan s'apropen oposicions que requereixen el CC).
 
 ## 1. Temari
 
@@ -26,11 +26,15 @@ Per a preparar les esmentades proves, és recomanable utilitzar les unitats disp
 
 ## 2. Descripció de la prova
 
+La informació més rellevant es resumeix a continuació:
+
 1. La prova durarà dos hores i mitja.
 2. Conté dos parts: una oral i una escrita.
    - En la part escrita cal elaborar un text, de 250 paraules almenys, relacionat amb un dels dos temes proposats. A més a més, s'ha d'omplir un qüestionari de 20 preguntes: 10 d'opció múltiple i 10 de verdader o fals.
    - En la part oral cal exposar un monòleg, que no serà gravat i durarà cinc minuts aproximadament, associat amb un dels dos temes proposats. 
 3. S'ha de superar la part escrita i la part oral de manera independent.
+
+Aquest és un [model de la prova](https://drive.google.com/file/d/1escXF8Bu6j8tV_ECL-Z9EUvq0XVC0j28/view?usp=sharing).
 
 ## 3. Criteris d'avaluació
 
@@ -58,6 +62,3 @@ S'obtindrà un apte en aquesta part si la qualificació total és superior a 18 
 ***
 
 *Data d'última modificació*: 30 de gener de 2019.
-
-
-
