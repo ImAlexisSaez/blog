@@ -30,7 +30,7 @@ Al finalizar la personalización de los parámetros básicos del sitio web, se a
 
 Nada intuitivo su contenido y carente por completo de comentarios, hecho nada halagüeño. Sin embargo, basta que experimentemos un poco con la anteriores líneas para comprobar que esta sección del archivo `config.toml` es la dedicada a gestionar la aparición de un carrusel de imágenes en la página web de acceso, situándolo justo detrás del título.
 
-Conviene que le echemos un vistazo a la [entrada](https://themes.gohugo.io/theme/beautifulhugo/post/2017-03-07-bigimg-sample/) que aparece en el propio blog de ejemplo del tema *Beautiful Hugo* hablando de la gestión de imágenes de cabecera. En el caso de haber varias declaradas, estas rotan cada diez segundos. Por otro lado, tenemos a nuestra disposición los siguientes parámetros de configuración:
+Conviene que le echemos un vistazo a la entrada que aparece en el propio blog de ejemplo del tema *Beautiful Hugo* hablando de la gestión de imágenes de cabecera. En el caso de haber varias declaradas, estas rotan cada diez segundos. Por otro lado, tenemos a nuestra disposición los siguientes parámetros de configuración:
 
 - `src`: ruta que apunta a la ubicación de la imagen de cabecera.
 - `desc`: parámetro opcional que nos permite incorporar un pequeño texto sobre la imagen, a modo de pie de figura.
