@@ -9,7 +9,7 @@ etiquetas: ["Ecuaciones diofánticas"]
 proyectos: ["Problemas"]
 ---
 
-**Problema 53:** Para abonar una factura de $1840$ pesetas se entregan libras esterlinas y dan la vuelta en marcos. Calcula las libras esterlinas entregadas y los marcos devueltos suponiendo que se ha entregado la cantidad mínima de libras necesarias para pagar y que la devolución son en marcos ($1$ marco $=$ $70$ pesetas, $1$ libra $=$ $180$ pesetas).
+**Problema 53:** Para abonar una factura de $1840$ pesetas se entregan libras esterlinas y dan la vuelta en marcos. Calcula las libras esterlinas entregadas y los marcos devueltos suponiendo que se ha entregado la cantidad mínima de libras necesarias para pagar y que la devolución es en marcos ($1$ marco $=$ $70$ pesetas, $1$ libra $=$ $180$ pesetas).
 
 <!--more-->
 
