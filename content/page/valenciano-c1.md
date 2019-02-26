@@ -69,6 +69,22 @@ L'AVL té en la seua web oficial una sèrie de fitxes de vocabulari dels més di
 
 D'altra banda, en el portal [gencat](https://web.gencat.cat/ca/inici/) trobem [50 termes del món digital](http://llengua.gencat.cat/web/.content/documents/publicacions/publicacions_en_linia/arxius/50_termes_mon_digital.pdf) i [50 termes del món de l'empresa](http://llengua.gencat.cat/ca/serveis/empresa_/50-termes-del-mon-de-lempresa/).
 
+## 4. Convocatòries d'exàmens
+
+En l'actualitat, hi ha tres entitats que acrediten els coneixements de valencià: la *Comissió Interuniversitària d’Estandardització d’Acreditacions de Coneixements de Valencià* ([CIEACOVA](http://cieacova.com/)), la *Junta Qualificadora de Coneixements de Valencià* ([JQCV](http://www.jqcv.gva.es/va/inici)) i l'*Escola Oficial d'Idiomes* ([EOI](http://www.eoi.gva.es/es)).
+
+La inscripció per a les proves es fa amb mesos d'antelació, per la qual cosa hem de visitar amb freqüència les webs oficials de les esmentades entitats. Els exàmens i les corresponents preinscripcions tenen lloc, aproximadament, en:
+
+<center>
+
+| Mes      | Entitat que acredita | Preinscripció (aproximadament) |
+| :------: | :------------------: | :----------------------------: |
+| Gener    | CIEACOVA             | Novembre                       |
+| Juny     | CIEACOVA, EOI, JQCV  | Febrer - abril                 |
+| Setembre | EOI                  | Febrer                         |
+
+</center>
+
 ***
 
-*Data d'última modificació*: 18 de febrer de 2019.
+*Data d'última modificació*: 26 de febrer de 2019.
