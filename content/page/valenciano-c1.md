@@ -85,6 +85,13 @@ La inscripció per a les proves es fa amb mesos d'antelació, per la qual cosa h
 
 </center>
 
+Exemples de convocatòries:
+
+- CIEACOVA: ACORD de 17 de gener de 2019, del Ple de la Comissió Interuniversitària d’Estandardització d’Acreditacions de Coneixements de Valencià (CIEACOVA), que estableix la convocatòria marc de les proves de maig-juny de 2019 per a l’obtenció dels certificats oficials d’acreditació de coneixements de valencià de les universitats valencianes i es nomena el Tribunal Central. [[Enllaç](http://cieacova.com/files/2019/02/convocato%CC%80ria-marc-de-les-proves-de-maig-juny-2019.pdf)]
+- EOI: RESOLUCIÓ de 6 de febrer de 2019, de la Direcció General de Política Lingüística i Gestió del Multilingüisme, per la qual s’estableixen el calendari i el procés d’inscripció i matriculació per a la realització de la prova de certificació dels nivells del Marc Europeu Comú de Referència per
+a l’aprenentatge, l’ensenyament i l’avaluació de llengües (MECR) dels ensenyaments d’idiomes de règim especial en les escoles oficials d’idiomes de la Comunitat Valenciana, corresponent a la convocatòria 2019. [[2019 / 1213](https://www.dogv.gva.es/datos/2019/02/08/pdf/2019_1213.pdf)]
+- JQCV: RESOLUCIÓ de 26 de febrer de 2019, de la Direcció General de Política Lingüística i Gestió del Multilingüisme, per la qual es convoquen les proves per a l’obtenció dels certificats oficials administratius de coneixements de valencià i es nomena la Comissió Coordinadora i les comissions examinadores. [[2019 / 2070](http://www.dogv.gva.es/datos/2019/03/01/pdf/2019_2070.pdf)]
+
 ***
 
-*Data d'última modificació*: 26 de febrer de 2019.
+*Data d'última modificació*: 2 de març de 2019.
