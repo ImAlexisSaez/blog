@@ -15,7 +15,6 @@ El título completo del documento es:
 
 - ORDEN 7 / 2019, de 28 de febrero de 2019, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se convoca procedimiento selectivo de ingreso y procedimiento para la adquisición de nuevas especialidades en los cuerpos docentes de profesores de Enseñanza Secundaria, profesores de escuelas oficiales de idiomas, profesores de Música y Artes Escénicas, profesores de Artes Plásticas y Diseño y profesores técnicos de Formación Profesional. [[2019 / 2095](http://www.dogv.gva.es/datos/2019/03/04/pdf/2019_2095.pdf)]
 
-
 Algunos de sus fragmentos que me han resultado de interés son:
 
 - *Presentación de solicitudes*: Quienes deseen tomar parte en este proceso selectivo deberán cumplimentar el modelo oficial de solicitud que estará disponible en la sede electrónica de la Generalitat Valenciana ([http://sede.gva.es](http://sede.gva.es)) y en la página web de la Conselleria de Educación, Investigación, Cultura y Deporte ([http://www.ceice.gva.es/es/web/rrhh-educacion/oposiciones](http://www.ceice.gva.es/es/web/rrhh-educacion/oposiciones)).
