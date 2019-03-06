@@ -68,4 +68,4 @@ $$
 
 que es la solución que estamos persiguiendo, pues $161^2 = 25921 = 5\cdot72^2+1$.
 
-*P. S. (acerca de la imagen de cabecera):* fotografía de [Len Roth](https://unsplash.com/@lenrroth), disponible en [Unsplash](https://unsplash.com/photos/4XXNWJJ4msg).
+*P. S. (acerca de la imagen de cabecera):* fotografía de [Len Roth](https://unsplash.com/@lenroth), disponible en [Unsplash](https://unsplash.com/photos/4XXNWJJ4msg).
