@@ -65,11 +65,48 @@ Altres recursos que ens ajudaran són:
 
 ## 3. Lèxics
 
-L'AVL té en la seua web oficial una sèrie de fitxes de vocabulari dels més diversos assumptes: [d'activitats recreatives i a l'aire lliure](http://avl.gva.es/documents/31987/56445/08_fitxaactivitatsrecreatives/d6628292-fb4e-4088-a8b4-a7d9c44ae9a1), [de l'astronomia](http://avl.gva.es/documents/31987/56445/02_fitxaastronomia/bd1f0a4e-d492-4fb2-8f18-d8a6ea44ce97), [de l'automòbil](http://avl.gva.es/documents/31987/56445/23_fitxaautomobil/56769b55-c4f8-46f8-8c44-a35d65e734ea), [de la casa](http://avl.gva.es/documents/31987/56445/12_fitxacasa/39fc9024-7af0-4054-ad40-b331f11d3cb7), [de la carnisseria](http://avl.gva.es/documents/31987/56445/04_fitxacarnisseria/860f334d-76e9-4c23-9ab8-64b15ca4dfd3), [de la cultura religiosa](http://avl.gva.es/documents/31987/56445/22_fitxa_cultura_religiosa/4b756468-b607-4ddf-92b6-1626ab18bc40), [de la ferreteria](http://avl.gva.es/documents/31987/56445/21_fitxaferreteria/193377fb-3646-41f0-be32-ee99b56a366c), [de la imatge personal](http://avl.gva.es/documents/31987/56445/24_fitxaimatgepersonal/72ba730a-8b48-4480-80c1-0f73fdebee23), [de la música](http://avl.gva.es/documents/31987/56445/10_fitxamusica/16631829-2bfa-4334-adfc-0149712c1ce8), [de la religió catòlica](http://avl.gva.es/documents/31987/56445/09_religiocatolica/474f6cc1-0107-41e3-a4a8-2bd4f7c38906), [de la roba i complements](http://avl.gva.es/documents/31987/56445/20_fitxaroba/8f14840b-238f-4e36-a0af-04e6ac4e69e0), [de la salut i la sanitat](http://avl.gva.es/documents/31987/56445/19_fitxasalut/4b13c69a-1749-4635-ab0e-1644a41f0992), [de la xarcuteria](http://avl.gva.es/documents/31987/56445/05_fitxaxarcuteria/eaec5bcd-f635-4120-a6b8-6f6ba739acd1), [de les fruites i verdures](http://avl.gva.es/documents/31987/56445/13_fitxafruites/c7774b27-f5db-44a8-8d3e-bf576f8b7736), [de les malalties](http://avl.gva.es/documents/31987/56445/15_fitxamalalties/9763742b-657b-40b6-bb40-9559d1e077f9), [del carrer](http://avl.gva.es/documents/31987/56445/14_fitxaelcarrer/30a3b531-4067-4331-a451-29d8250eb6a5), [del cos humà](http://avl.gva.es/documents/31987/56445/16_fitxacoshuma/40505884-8042-4e56-aad7-a3ce6b82e7f1), [del forn i de les pastisseries](http://avl.gva.es/documents/31987/56445/01_fitxafornipastisseries/be385f39-72c2-411c-8e71-5259ecdb80df), [del futbol](http://avl.gva.es/documents/31987/56445/07_fitxafutbol/dcacae2e-f3d0-4f16-990c-fe915752c962), [del joc de pilota](http://avl.gva.es/documents/31987/56445/25_fitxapilota/61e14b7f-e0b7-44f8-9be0-4c129853cec7), [del peix i marisc](http://avl.gva.es/documents/31987/56445/17_fitxapeix/a1e2f2e7-6cd5-464b-aae5-9e7f6ee87596), [del restaurant](http://avl.gva.es/documents/31987/56445/03_fitxarestaurant/56df0b5f-d3c3-4812-bef8-477f4284469d), [dels esports](http://avl.gva.es/documents/31987/56445/06_fitxaesports/c2d37a4f-197c-48be-ae3f-0d00295a3f57), [dels instruments musicals](http://avl.gva.es/documents/31987/56445/11_fitxainstrumentsmusicals/18aeaad9-2266-4bbe-b83e-0aca80c28eda) i [dels viatges](http://avl.gva.es/documents/31987/56445/18_fitxaviatges/1574a6c8-d236-4744-9199-ceb389ef0d26).
+L'AVL té en la seua web oficial una sèrie de fitxes de vocabulari dels més diversos assumptes: 
 
-D'altra banda, en el portal [gencat](https://web.gencat.cat/ca/inici/) trobem [50 termes del món digital](http://llengua.gencat.cat/web/.content/documents/publicacions/publicacions_en_linia/arxius/50_termes_mon_digital.pdf) i [50 termes del món de l'empresa](http://llengua.gencat.cat/ca/serveis/empresa_/50-termes-del-mon-de-lempresa/).
+- [d'activitats recreatives i a l'aire lliure](http://avl.gva.es/documents/31987/56445/08_fitxaactivitatsrecreatives/d6628292-fb4e-4088-a8b4-a7d9c44ae9a1), 
+- [de l'astronomia](http://avl.gva.es/documents/31987/56445/02_fitxaastronomia/bd1f0a4e-d492-4fb2-8f18-d8a6ea44ce97), 
+- [de l'automòbil](http://avl.gva.es/documents/31987/56445/23_fitxaautomobil/56769b55-c4f8-46f8-8c44-a35d65e734ea),
+- [de la casa](http://avl.gva.es/documents/31987/56445/12_fitxacasa/39fc9024-7af0-4054-ad40-b331f11d3cb7), 
+- [de la carnisseria](http://avl.gva.es/documents/31987/56445/04_fitxacarnisseria/860f334d-76e9-4c23-9ab8-64b15ca4dfd3),
+- [de la cultura religiosa](http://avl.gva.es/documents/31987/56445/22_fitxa_cultura_religiosa/4b756468-b607-4ddf-92b6-1626ab18bc40), 
+- [de la ferreteria](http://avl.gva.es/documents/31987/56445/21_fitxaferreteria/193377fb-3646-41f0-be32-ee99b56a366c), 
+- [de la imatge personal](http://avl.gva.es/documents/31987/56445/24_fitxaimatgepersonal/72ba730a-8b48-4480-80c1-0f73fdebee23), 
+- [de la música](http://avl.gva.es/documents/31987/56445/10_fitxamusica/16631829-2bfa-4334-adfc-0149712c1ce8), 
+- [de la religió catòlica](http://avl.gva.es/documents/31987/56445/09_religiocatolica/474f6cc1-0107-41e3-a4a8-2bd4f7c38906), 
+- [de la roba i complements](http://avl.gva.es/documents/31987/56445/20_fitxaroba/8f14840b-238f-4e36-a0af-04e6ac4e69e0), 
+- [de la salut i la sanitat](http://avl.gva.es/documents/31987/56445/19_fitxasalut/4b13c69a-1749-4635-ab0e-1644a41f0992), 
+- [de la xarcuteria](http://avl.gva.es/documents/31987/56445/05_fitxaxarcuteria/eaec5bcd-f635-4120-a6b8-6f6ba739acd1), 
+- [de les fruites i verdures](http://avl.gva.es/documents/31987/56445/13_fitxafruites/c7774b27-f5db-44a8-8d3e-bf576f8b7736), 
+- [de les malalties](http://avl.gva.es/documents/31987/56445/15_fitxamalalties/9763742b-657b-40b6-bb40-9559d1e077f9), 
+- [del carrer](http://avl.gva.es/documents/31987/56445/14_fitxaelcarrer/30a3b531-4067-4331-a451-29d8250eb6a5), 
+- [del cos humà](http://avl.gva.es/documents/31987/56445/16_fitxacoshuma/40505884-8042-4e56-aad7-a3ce6b82e7f1), 
+- [del forn i de les pastisseries](http://avl.gva.es/documents/31987/56445/01_fitxafornipastisseries/be385f39-72c2-411c-8e71-5259ecdb80df), 
+- [del futbol](http://avl.gva.es/documents/31987/56445/07_fitxafutbol/dcacae2e-f3d0-4f16-990c-fe915752c962), 
+- [del joc de pilota](http://avl.gva.es/documents/31987/56445/25_fitxapilota/61e14b7f-e0b7-44f8-9be0-4c129853cec7), 
+- [del peix i marisc](http://avl.gva.es/documents/31987/56445/17_fitxapeix/a1e2f2e7-6cd5-464b-aae5-9e7f6ee87596), 
+- [del restaurant](http://avl.gva.es/documents/31987/56445/03_fitxarestaurant/56df0b5f-d3c3-4812-bef8-477f4284469d), 
+- [dels esports](http://avl.gva.es/documents/31987/56445/06_fitxaesports/c2d37a4f-197c-48be-ae3f-0d00295a3f57), 
+- [dels instruments musicals](http://avl.gva.es/documents/31987/56445/11_fitxainstrumentsmusicals/18aeaad9-2266-4bbe-b83e-0aca80c28eda) i 
+- [dels viatges](http://avl.gva.es/documents/31987/56445/18_fitxaviatges/1574a6c8-d236-4744-9199-ceb389ef0d26).
 
-## 4. Convocatòries d'exàmens
+D'altra banda, en el portal [gencat](https://web.gencat.cat/ca/inici/) trobem:
+
+- [50 termes del món digital](http://llengua.gencat.cat/web/.content/documents/publicacions/publicacions_en_linia/arxius/50_termes_mon_digital.pdf),
+- [50 termes del món de l'empresa](http://llengua.gencat.cat/ca/serveis/empresa_/50-termes-del-mon-de-lempresa/).
+
+## 4. Jocs educatius
+
+Aquests recursos són útils per a reforçar l'ortografia, la gramàtica i el vocabulari:
+
+- [Enjogassa't](http://dival.es/enjogassat/): t'esperen més de tres mil reptes i moltes sorpreses per a fornir el vocabulari, regar l'ortografia i enfortir la gramàtica. El valencià estarà més viu gràcies a tu i sentiràs l'energia de la teua llengua.
+- [Jugallengua](http://www.ceice.gva.es/va/web/dgplgm/jugallengua): és una aplicació que ajuda a aprendre valencià de manera lúdica, ja que s'ha dissenyat com un joc de preguntes i respostes sobre llengua.
+- [Pràctic 2](http://www.ceice.gva.es/va/web/dgplgm/practic): és un programa que integra un conjunt d'activitats d'autoaprenentatge, de manera que l'usuari, gràcies al sistema d'autocorrecció, pot comprovar immediatament quin és el grau de coneixements de valencià que té assolit i a quins aspectes de la gramàtica ha de dedicar més esforços per a millorar els seus coneixements lingüístics.
+
+## 5. Convocatòries d'exàmens
 
 En l'actualitat, hi ha tres entitats que acrediten els coneixements de valencià: la *Comissió Interuniversitària d’Estandardització d’Acreditacions de Coneixements de Valencià* ([CIEACOVA](http://cieacova.com/)), la *Junta Qualificadora de Coneixements de Valencià* ([JQCV](http://www.jqcv.gva.es/va/inici)) i l'*Escola Oficial d'Idiomes* ([EOI](http://www.eoi.gva.es/es)).
 
@@ -94,4 +131,4 @@ a l’aprenentatge, l’ensenyament i l’avaluació de llengües (MECR) dels en
 
 ***
 
-*Data d'última modificació*: 2 de març de 2019.
+*Data d'última modificació*: 13 de març de 2019.
