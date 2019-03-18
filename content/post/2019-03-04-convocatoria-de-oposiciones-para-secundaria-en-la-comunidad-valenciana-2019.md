@@ -29,4 +29,9 @@ día 26 de junio de 2019.
 - *Programación didáctica*: La programación didáctica, que tendrá carácter personal, deberá ser elaborada de forma individual por la persona aspirante, y tener una extensión máxima de 60 páginas, en formato DIN-A4, escritas a doble espacio, con letra Arial (no se admitirá ninguna otra tipología de Arial) y con un cuerpo de letra de 12 puntos, sin comprimir. La portada contendrá los datos de identificación de la persona aspirante, el cuerpo y la especialidad por la cual se presenta (no se contabilizará en las 60 páginas). No podrá contener hipervínculos. Los anexos no podrán superar las 15 páginas (que no se computarán en las 60 iniciales establecidas). En el caso de utilizar tablas, el cuerpo de la letra podrá reducirse hasta 9 puntos, sin comprimir. La presentación deberá efectuarse en un único documento en formato PDF que no superará los 20 MB.
    - La programación didáctica deberá organizarse en un mínimo de 10 y un máximo de 15 unidades didácticas que deberán estar numeradas.
 
+Actualización:
+
+- CORRECCIÓN de errores de la Orden 7 / 2019, de 28 de febrero, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se convoca procedimiento selectivo de ingreso y procedimiento para la adquisición
+de nuevas especialidades en los cuerpos docentes de profesores de Enseñanza Secundaria, profesores de escuelas oficiales de idiomas, profesores de Música y artes Escénicas, profesores de Artes Plásticas y Diseño y profesores técnicos de Formación Profesional. [[2019 / 2648](http://www.dogv.gva.es/datos/2019/03/18/pdf/2019_2648.pdf)]
+
 *P. S. (acerca de la imagen de cabecera):* fotografía de [Hai Nguyen](https://unsplash.com/@nnhai1991), disponible en [Unsplash](https://unsplash.com/photos/1pk-V9l5Qgg).
